@@ -39,8 +39,8 @@ INSERT INTO developers_projects_relation VALUES (1, 2);
 INSERT INTO developers_projects_relation VALUES (2, 3);
 INSERT INTO developers_projects_relation VALUES (2, 4);
 INSERT INTO developers_projects_relation VALUES (3, 5);
-INSERT INTO developers_projects_relation VALUES (3, 1);
-INSERT INTO developers_projects_relation VALUES (4, 1);
+INSERT INTO developers_projects_relation VALUES (3, 6);
+INSERT INTO developers_projects_relation VALUES (4, 7);
 INSERT INTO developers_projects_relation VALUES (4, 8);
 INSERT INTO developers_projects_relation VALUES (5, 9);
 INSERT INTO developers_projects_relation VALUES (6, 1);
@@ -81,15 +81,7 @@ INSERT INTO companies_projects_relation VALUES(2,6);
 INSERT INTO companies_projects_relation VALUES(3,7);
 INSERT INTO companies_projects_relation VALUES(3,8);
 INSERT INTO companies_projects_relation VALUES(3,9);
-INSERT INTO customers_projects_relation VALUES(1,1);
-INSERT INTO customers_projects_relation VALUES(1,2);
-INSERT INTO customers_projects_relation VALUES(1,3);
-INSERT INTO customers_projects_relation VALUES(2,4);
-INSERT INTO customers_projects_relation VALUES(2,5);
-INSERT INTO customers_projects_relation VALUES(2,6);
-INSERT INTO customers_projects_relation VALUES(3,7);
-INSERT INTO customers_projects_relation VALUES(3,8);
-INSERT INTO customers_projects_relation VALUES(3,9);
+
 
 
 
